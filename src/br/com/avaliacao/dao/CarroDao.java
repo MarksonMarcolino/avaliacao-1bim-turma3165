@@ -9,6 +9,6 @@ package br.com.avaliacao.dao;
  *
  * @author Markson
  */
-public class CarroDao {
+public class CarroDao implements ICarroDao{
     
 }
